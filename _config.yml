@@ -1,4 +1,3 @@
-name: Ari Qayumi, Horrible Cop
-	markdown: kramdown
-
+name: Ari Qayumi
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
